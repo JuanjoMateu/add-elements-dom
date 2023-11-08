@@ -16,4 +16,4 @@ La estructura ya está creada en el HTML, así solo tendrás que trabajar con Ja
 
 Si tienes otra solución que no lleve esos elementos, ¡adelante!
 
-Puedes añadir CSS a tu gusto. Si es así, añade un documento CSS y a trabajar ;)
+Puedes añadir CSS a tu gusto. Si es así, añade un documento CSS y a trabajar ;
